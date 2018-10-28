@@ -13,6 +13,6 @@ git add .
 git commit -am ${NewVersionNumber}
 git tag ${NewVersionNumber}
 git push origin master --tags
-pod trunk push Test.podspec --verbose --allow-warnings --use-libraries
+pod trunk push TemplateProject.podspec --verbose --allow-warnings --use-libraries
 #pod repo push PrivatePods TemplateProject.podspec --verbose --allow-warnings
 
