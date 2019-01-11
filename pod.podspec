@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TemplateProject"
-  s.version      = "0"
+  s.version      = "1"
   s.summary      = "TemplateProject."
 
   # This description is used to generate tags and improve search results.
