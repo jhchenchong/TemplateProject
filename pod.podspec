@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TemplateProject"
-  s.version      = "5"
+  s.version      = "0"
   s.summary      = "TemplateProject."
 
   # This description is used to generate tags and improve search results.
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
                     this is TemplateProject
                    DESC
 
-  s.homepage     = "https://github.com/jhchenchong/TemplateProject"
+  s.homepage     = "https://gitee.com/chuangxu/TemplateProject"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -76,7 +76,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/jhchenchong/TemplateProject.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://gitee.com/chuangxu/TemplateProject.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
